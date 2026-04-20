@@ -1,6 +1,4 @@
-# bimm143
-Bioinformatics Class at UCSD 2021
-Showcase of my work in this class
+# Bioinformatics in R
 
 ## Contents
 - Intro to R [source](https://github.com/krispybacon01/bimm143/tree/main/class04)
